@@ -31,7 +31,7 @@
 
 * ### Forking and contributing:
   1. Click the **Fork** button in the repository on GitHub to fork this project.
-  2. Further to be added! Be patient!
+  2. Further to be added! 
 
 
 
